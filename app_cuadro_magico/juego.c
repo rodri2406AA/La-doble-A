@@ -2,6 +2,6 @@
 
 int main()
 { 
-    prueba_tamano();
+    prueba_leer();
     return 0;
 }

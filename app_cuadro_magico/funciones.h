@@ -3,3 +3,4 @@
                     // ./juego
 
 void prueba_tamano();
+void prueba_leer();
